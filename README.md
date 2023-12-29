@@ -1,2 +1,2 @@
 # HAsmooth
-Play smooth on GitHub
+Play smooth fm from GitHub
